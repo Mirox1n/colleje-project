@@ -11,7 +11,7 @@
     border-radius: 10px;
     cursor: pointer;
     box-shadow: 0 9px #ccc;
-    background-image: url(/png/12.png);
+    background-image: url(12.png);
 }
 
 .butt_1:active:active {
@@ -33,7 +33,7 @@
     border-radius: 10px;
     cursor: pointer;
     box-shadow: 0 9px #ccc;
-    background-image: url(/png/12.png);
+    background-image: url(12.png);
 }
 
 .butt_2:active:active {

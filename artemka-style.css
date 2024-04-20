@@ -1,16 +1,16 @@
 @font-face {
   font-family: "roboto-medium";
-  src: url(/artemka/roboto-medium.woff);
+  src: url(roboto-medium.woff);
 }
 
 @font-face {
   font-family: "21026-site";
-  src: url(/artemka/210261.woff);
+  src: url(210261.woff);
 }
 
 @font-face {
   font-family: "p1-main";
-  src: url(/artemka/p1_main.ttf);
+  src: url(p1_main.ttf);
 }
 
 .webmadewell {
@@ -25,7 +25,7 @@ body {
   left: 0;
   top: 0;
   width: 100%;
-  background-image: url("/artemka/d1.jpg");
+  background-image: url("d1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
